@@ -217,7 +217,7 @@ Contributions are welcome! Please feel free to:
 **Ngô Thanh Tình (reimei2009)**
 - 🐙 GitHub: [@reimei2009](https://github.com/reimei2009)
 - 📧 Email: thanhin875@gmail.com
-- 🏆 Kaggle: [reimei2009](https://www.kaggle.com/reimei2009)
+
 
 ## 📄 License
 
